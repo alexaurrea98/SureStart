@@ -1,1 +1,3 @@
-# SureStart
+## Reflections
+#### Day 1: 02.08.2021
+I am very excited to be part of Vail spring 2021! What caught my attention about this program in the first place was the fact that it's centered around AI and ML. I recently changed to a computer engineering degree and was wanting to take some machine learning classes, however, my schedule won't allow me to. In this year's VAIL program I hope to learn how to work with AI and deep learning. I also hope to not be intimmidated by this field of study. Lastly, I want to see what I am capable of during the makeathon. I look forward to meeting and working with great people and hope to stay connected for years to come!
