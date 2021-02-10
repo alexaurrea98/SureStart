@@ -1,3 +1,6 @@
 ## Reflections
 #### Day 1: 02.08.2021
 I am very excited to be part of Vail spring 2021! What caught my attention about this program in the first place was the fact that it's centered around AI and ML. I recently changed to a computer engineering degree and was wanting to take some machine learning classes, however, my schedule won't allow me to. In this year's VAIL program I hope to learn how to work with AI and deep learning. I also hope to not be intimmidated by this field of study. Lastly, I want to see what I am capable of during the makeathon. I look forward to meeting and working with great people and hope to stay connected for years to come!
+
+### Day 2: 02.09.2021
+Today was great! I got to meet my mentor and he was very nice and helpful. I enjoyed reading about ML. The article made ML a little less intimidating as it explained how mathematical models are used to create these complex problem solvers. It was also helpful to learn the difference between supervised and unsupervised ML methods because we will need to decide which to use for specific problems. The learning activiy in Jupyter was also very helpeful. I was able to install different pyhton modules I did not have before. Overall, very informative. 
